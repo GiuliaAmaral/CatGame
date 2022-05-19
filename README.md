@@ -1,5 +1,5 @@
 # catGame
-CatGame é um jogo feito em javascript puro, html, and css
+CatGame é um jogo feito em javascript puro, html, and css com sistema de pontos
 
 # Demonstração
 
